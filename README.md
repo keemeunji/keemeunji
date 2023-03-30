@@ -15,3 +15,9 @@ sch university, internet of things 3rd grade
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<div align="center">
+  
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=keemeunji)](https://github.com/keemeunji/github-readme-stats)
+  
+</div>
