@@ -1,5 +1,6 @@
-### Hi there 👋
-
+<div align=center>
+  
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=We!come%20&fontSize=90)
 <!--
 **keemeunji/keemeunji** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -18,6 +19,7 @@ sch university, internet of things 3rd grade
 
 <div align="center">
   
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=keemeunji)](https://github.com/keemeunji/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=keemeunji&show_icons=true&theme=onedark)
   
 </div>
+  </div>
