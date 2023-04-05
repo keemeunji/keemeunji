@@ -1,6 +1,6 @@
 <div align=center>
   
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=We!come&fontSize=70)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=We!come&fontSize=75)
 <!--
 **keemeunji/keemeunji** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
