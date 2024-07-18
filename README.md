@@ -17,9 +17,7 @@ sch university, internet of things 3rd grade
 - ⚡ Fun fact: ...
 -->
 
-<div align="center">
-  
+<!-- <div align="center">
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=keemeunji&show_icons=true&theme=onedark)
-  
+</div>  -->
 </div>
-  </div>
